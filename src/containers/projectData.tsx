@@ -10,7 +10,7 @@ const lift = {
   imageDark: '/lift-dark.png',
   imageLight: '/lift-light.png',
   techStack: ['Next.js', 'Firebase', 'Tailwind CSS'],
-  gitHub: 'https://github.com/prnvbirajdar/NEXT-Workout-App',
+  //gitHub: 'https://github.com/prnvbirajdar/NEXT-Workout-App',
   site: 'https://lift-next.vercel.app/',
 }
 
@@ -26,7 +26,7 @@ const covid19 = {
   imageDark: '/cov-dark.png',
   imageLight: '/cov-light.png',
   techStack: ['React', 'Chart.js', 'COVID-19 API'],
-  gitHub: 'https://github.com/prnvbirajdar/covid19canada',
+  //gitHub: 'https://github.com/prnvbirajdar/covid19canada',
   site: 'https://covid19ca.netlify.app/',
 }
 const reelsDb = {
@@ -41,7 +41,7 @@ const reelsDb = {
   imageDark: '/reels-dark.png',
   imageLight: '/reels-light.png',
   techStack: ['React', 'SCSS', 'TMDb API'],
-  gitHub: 'https://github.com/prnvbirajdar/Movie-Database',
+  //gitHub: 'https://github.com/prnvbirajdar/Movie-Database',
   site: 'https://reels.netlify.app/',
 }
 const keepClone = {
@@ -56,7 +56,7 @@ const keepClone = {
   imageDark: '/keep-dark.png',
   imageLight: '/keep-light.png',
   techStack: ['Next.js', 'Firebase', 'Tailwind CSS'],
-  gitHub: 'https://github.com/prnvbirajdar/NEXT-Google-Keep',
+  //gitHub: 'https://github.com/prnvbirajdar/NEXT-Google-Keep',
   site: 'https://google-keep-next.vercel.app/',
 }
 
