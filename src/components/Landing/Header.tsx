@@ -13,7 +13,7 @@ const Main = () => {
             variants={fadeInUp}
             className="mt-3 sm:w-9/12 mb-2  text-indigo-800 dark:text-indigo-400 md:w-10/12 lg:w-full text-base md:text-lg font-bold "
           >
-            HEY THERE,
+            HOWDY,
           </motion.p>
           <motion.div variants={fadeInUp}>
             <h1 className="text-4xl md:mb-5 2xl:text-7xl  md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight dark:text-gray-100  sm:leading-10   md:leading-14">
